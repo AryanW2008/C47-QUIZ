@@ -1,2 +1,6 @@
-# C47-QUIZ
-Q47 Work
+# quiz
+put your quiz questions in form of png files with these names.
+quiz_1.png, quiz_2.png, etc...
+also put the answer options in the respective answer1.txt, answer2.txt, etc...
+remember to keep the correct answer in the first line.
+if u want to add more questions you will need to adjust the indexes of your arrays in the file "sketch.js"
